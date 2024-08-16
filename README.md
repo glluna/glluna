@@ -2,7 +2,7 @@
 
 - 🧑‍💻 JAVA, JAVAWEB, JENKINS, MAVEN, RabbitMQ, Kafka, SPRING BOOT, GIT, SQL, PostgreSQL, Docker.
 - 💡Estudando Análise e Desenvolvomento de Sistemas.
-- 💡 Cursando Especialista Back-End JAVA.
+- 💡 Cursando Back-End JAVA.
 - 💡 Estudante da área BackEnd.
 - 🎯 Desenvolvendo alguns projetos para praticar e aprimorar meus conhecimentos.
 - ⚡ Fatos sobre mim: Gosto de praticar exercícios físicos, assistir séries, e ir a praia.
